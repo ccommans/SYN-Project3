@@ -2,9 +2,7 @@
 
 >“This program invites you to engage in an anti-racist curriculum that challenges you to look at the climate crisis and intersecting issues from an interdisciplinary and critical perspective.” —Synthesis 1 Syllabus
 
->"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education." —Martin Luther King, Jr.
-  
-  
+    
 <h2>Operating in Ignorance</h2>
 Only on rare, usually disastrous, occasions does information about the climate crisis reach the news feeds of the average American, so anyone invested and wanting to learn more about it are effectively left to seek out information on their own. On the New York Times website, the “Climate” tab is available only when in the “Science” section. On the Fox News website, under “More…” is a science section with “Planet Earth” interestingly sandwiched between “Archeology” and “Dinosaurs,” and even then the majority of headlines have nothing to do with climate change or its effects. On the BBC News website, “Climate” is placed third after “War in Ukraine” and “Coronavirus” tabs on its homepage. This process is similar for all major news websites online today. Clearly, then, climate change is not prioritized by the media and begs the question “What information is lost as a result?” The Synthesis program attempts to answer this by providing sources that are all related to the climate crisis, but at times presented unexpectedly. It took me a long time to realize the purpose behind presenting the climate crisis in this manner: there are correct and incorrect solutions to the climate crisis, and any simplistic solutions will be incorrect.
 <br>
